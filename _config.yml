@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Julie-Jennifer Nguyen
-tagline:             'Enterprise Success at Segment'
+tagline:             'Enterprise Success at <a href="www.segment.com">Segment</a>'
 description:         'Musings at the intersection of Customer Success + Data Analytics <a href="https://twitter.com/juliejen_nguyen" target="_blank">@juliejen_nguyen</a>.'
 url:                 https://llcooljj.github.io/
 baseurl:             ''
