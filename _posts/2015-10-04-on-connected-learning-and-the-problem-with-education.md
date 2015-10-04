@@ -11,13 +11,13 @@ In an [interview](http://spotlight.macfound.org/featured-stories/entry/john-seel
 
   > It was the beginning of a long transformation in my mind about the shift from being an expert in content to being skilled at reading context."
 
-Context, in his example, refers to  broader circumstances that enrich one's understanding of content. The details that can transform meaning and, in my case, accelerate the transmission of knowledge. I would argue that it's an unequivocally powerful and necessary learning tool that is ineffectively delivered alongside content in today's classrooms.
+Context, in his example, refers to  the broader circumstances that enrich one's understanding of content. The details that can transform meaning and, in my case, accelerate the transmission of knowledge. I would argue that it's an unequivocally powerful and necessary learning tool that is ineffectively delivered alongside content in today's classrooms.
 
 Take this [example](http://college.cengage.com/mathematics/blackboard/content/larson/calc8e/calc8e_solution_main.html?CH=00&SECT=a&TYPE=se) from a newer version of my Calculus textbook in high school: 
 
   > Find the sales necessary to break even (R=C) if the cost C of producing *x* units is C = 5.5 √x + 10,000 and the revenue for selling *x* units is R = 3.29x.
 
-The word problem itself does an excellent job providing the information needed to solve the problem (R=C) and, as such, does not require you to understand context whatsoever to be able to solve the problem. How, then, are students who have been conditioned to isolate and solve for content, ever expected to develop the skills necessary to solve for context?
+The word problem itself does an excellent job providing the information needed (R=C) and, as such, does not require you to understand context whatsoever to be able to solve the problem. How, then, are students who have been conditioned to isolate and solve for content, ever expected to develop the skills necessary to solve for context?
 
 The problem with our existing education model, Brown seems to imply, is that it institutionalizes that the right standard for measuring intelligence is one's ability to learn content primarily in a classroom setting. He suggests that we refocus that emphasis to one on connected learning instead.
 
