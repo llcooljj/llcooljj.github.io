@@ -9,7 +9,7 @@ At Holy Cross, I failed an exam for the first and only time in my entire life. I
 
 In an [interview](http://spotlight.macfound.org/featured-stories/entry/john-seely-brown-beyond-creativity-cultivate-imagination/#sthash.gwz9i4Us.dpuf) with journalist Heather Chaplin, John Seely Brown says,
 
-  > It was the beginning of a long transformation in my mind about the shift from being an expert in content to being skilled at reading context."
+  > It was the beginning of a long transformation in my mind about the shift from being an expert in content to being skilled at reading context.
 
 Context, in his example, refers to  the broader circumstances that enrich one's understanding of content. The details that can transform meaning and, in my case, accelerate the transmission of knowledge. I would argue that it's an unequivocally powerful and necessary learning tool that is ineffectively delivered alongside content in today's classrooms.
 
