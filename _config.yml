@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Julie-Jennifer Nguyen
 tagline:             'Enterprise Success at <a href="https://www.segment.com" target="_blank">Segment</a>'
-description:         'Musings at the intersection of Customer Success + Data Analytics. Follow me <a href="https://twitter.com/juliejen_nguyen" target="_blank">@juliejen_nguyen</a>.'
+description:         'Musings of a Customer Success Manager, former analyst, personality test enthusiast, feminist, connector, eventual global change agent, and corny joke lover. Follow me <a href="https://twitter.com/juliejen_nguyen" target="_blank">@juliejen_nguyen</a>.'
 url:                 https://llcooljj.github.io/
 baseurl:             ''
 paginate:            5
