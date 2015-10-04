@@ -17,7 +17,7 @@ Take this [example](http://college.cengage.com/mathematics/blackboard/content/la
 
   > Find the sales necessary to break even (R=C) if the cost C of producing *x* units is C = 5.5 √x + 10,000 and the revenue for selling *x* units is R = 3.29x.
 
-The word problem itself does an excellent job providing the information needed (R=C) and, as such, does not require you to understand context whatsoever to be able to solve the problem. How, then, are students who have been conditioned to isolate and solve for content, ever expected to develop the skills necessary to solve for context?
+The word problem itself does an excellent job providing the information needed (R=C) and, as such, does not require you to understand context whatsoever to be able to solve the problem. How, then, are students, who have been conditioned to isolate and solve for content, ever expected to develop the skills necessary to solve for context?
 
 The problem with our existing education model, Brown seems to imply, is that it institutionalizes that the right standard for measuring intelligence is one's ability to learn content primarily in a classroom setting. He suggests that we refocus that emphasis to one on connected learning instead.
 
