@@ -6,7 +6,7 @@ permalink: pretty
 # Setup
 title:               JJ Nguyen
 tagline:             'Not all who wander are lost.'
-description:         'Sales @ <a href="https://www.scale.ai" target="_blank">Scale AI</a>. | Formerly A Little Bit of Everything @ <a href="https://www.segment.com" target="_blank">Segment</a> + <a href="https://www.warbyparker.com" target="_blank">Warby Parker</a> Follow me <a href="https://twitter.com/juliejen_nguyen" target="_blank">@juliejen_nguyen</a>.'
+description:         'Follow me <a href="https://twitter.com/hijuliejennifer" target="_blank">@HiJulieJennifer</a>.'
 url:                 https://llcooljj.github.io/
 baseurl:             ''
 paginate:            5
@@ -14,7 +14,7 @@ paginate:            5
 # About/contact
 author:
   name:              JJ Nguyen
-  url:               https://twitter.com/juliejen_nguyen
+  url:               https://twitter.com/hijuliejennifer
   email:             juliejen.nguyen@gmail.com
 
 # Custom vars
