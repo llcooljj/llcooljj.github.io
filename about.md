@@ -5,7 +5,7 @@ title: About Me
 
 <img src="/assets/pic.png" width="300">
 
-Professionally, I like doing things at startups. Most recently, I've been in sales, though I have dabbled in product marketing, customer success, analytics, and corporate finance in the last 10 years.
+Professionally, I'm an experienced GTM operator. Most recently, I've been in field sales, though I have held roles in product marketing, customer success, analytics, and corporate finance over the last 10 years.
 
 - Currently: Enterprise Account Executive, West Coast Lead at [Radar.io](https://radar.io)
 - Previously:
@@ -21,4 +21,3 @@ Professionally, I like doing things at startups. Most recently, I've been in sal
 
 ***
 
-Personally, I'm pretty simple in that I enjoy spending time with my family, reading, learning new things, and creating things (i.e. baking, cooking, playing guitar, knitting).
