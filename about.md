@@ -16,6 +16,7 @@ She shines in situations that involve creative problem solving and tight, cross-
 - At Scale AI, JJ was quickly promoted to Enterprise Sales, where she successfully landed several six-figure contracts with Facebook and Waymo, two of the company's most strategic Target Accounts in just under a year
 
 
+### Work Experience
 - Currently: Enterprise Account Executive, West Coast Lead at [Radar.io](https://radar.io)
 - Previously:
     - Enterprise Account Executive at [Scale AI](https://scale.ai)
@@ -27,6 +28,24 @@ She shines in situations that involve creative problem solving and tight, cross-
     - Customer Experience Analyst at [Warby Parker](https://warbyparker.com)
     - Financial Management Program, GE Energy
 
+### What Peers and Managers have to say about JJ
 
+"Making customers and peers better through a strong sense of growth mindset, and ownership." - *Manager, Enterprise Customer Operations*
+
+"JJ melds fierce execution with an aura of positivity and warmth." - *Product Manager*
+
+"JJ is a highly versatile, driven, intelligent, and entrepreneurial leader." - *Head of US Sales*
+
+"JJ is a product manager's dream to work with to build truly customer-centric products!" - *Product Manager*
+
+"JJ's doing an awesome job of successfully navigating and advancing a variety of institutionally, technically, and geographically difficult sales opportunities. JJ brings her best to each and every call and is always ready to strategize and position our collaborative approach." - *Senior Solutions Engineer*
+
+"[JJ's] ability to translate a business problem into a product solution is outstanding!" - *Enterprise Account Executive
+
+### What Customers have to say about JJ
+
+"JJ is unquestionably **one of the single most effective Success Managers** that I’ve ever worked with. She’s a **reliable problem-solver** and has been a consistently responsive life-line to myself and my colleagues on multiple occasions. Given her **unique blend of technical and interpersonal skills**, combined with her domain-specific expertise, I would work with JJ again anytime." - Head of Sales Ops
+
+"Julie-Jennifer is **truly a rockstar when it comes to helping out new customers**. We had such a great time working with her to get our analytics moved over, and it was a surprisingly painless and thoroughly enjoyable process. Not only does **Julie-Jennifer take the time to understand your needs and business in great detai**l as it pertains to Segment, but **also brings a bunch of experience to help your overall analytics strategy improve and grow**. I know that if it wasn't for Julie-Jennifer, I would not have had such a pleasurable experience becoming a Segment customer, and our integration would have been nowhere near as successful. Cannot recommend her enough!" - Director of Product`
 ***
 
