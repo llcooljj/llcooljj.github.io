@@ -31,7 +31,7 @@ She shines in situations that involve creative problem solving and tight, cross-
     - Customer Experience Analyst at [Warby Parker](https://warbyparker.com)
     - Financial Management Program, GE Energy
 
-### What Peers and Managers have to say about JJ. 
+### What Peers and Managers have to say about JJ<br>
 
 "Making customers and peers better through a strong sense of growth mindset, and ownership." - *Manager, Enterprise Customer Operations*
 
@@ -45,7 +45,7 @@ She shines in situations that involve creative problem solving and tight, cross-
 
 "[JJ's] ability to translate a business problem into a product solution is outstanding!" - *Enterprise Account Executive*
 
-### What Customers have to say about JJ. 
+### What Customers have to say about JJ<br>
 
 "JJ is unquestionably **one of the single most effective Success Managers** that I’ve ever worked with. She’s a **reliable problem-solver** and has been a consistently responsive life-line to myself and my colleagues on multiple occasions. Given her **unique blend of technical and interpersonal skills**, combined with her domain-specific expertise, I would work with JJ again anytime." - *Head of Sales Ops*
 
