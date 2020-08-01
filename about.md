@@ -3,7 +3,7 @@ layout: page
 title: About JJ
 ---
 
-<img src="/assets/IMG_1051.jpeg" width="500">
+<p align="center"><img src="/assets/IMG_1051.jpeg" width="500"></p>
 
 JJ Nguyen is a growth stage tech startup operator, marked by her versatility across GTM functions, "do right by your customers" mentality, and her high agency, high ownership approach to work.
 
