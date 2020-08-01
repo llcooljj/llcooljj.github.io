@@ -14,7 +14,7 @@ She shines in situations that involve creative problem solving and tight, cross-
 
 - In 2015, after moving to SF, she joined Segment as one of the first Success Leads and was instrumental in putting product expertise and tactical problem solving at the heart of the Customer Success function
 
-- As the company's 2nd Product Marketing Manager, she helped shape the product direction for Personas in 2016, now one of the company's 3 Core Products. It was her responsibility to ensure new Sales and Customer Success team members were trained effectively on Segment.
+- As the company's 2nd Product Marketing Manager, she helped shape the product direction for Personas in 2016, now one of the company's 3 Core Products. It was her responsibility to ensure new Sales and Customer Success team members were trained effectively on Segment
 
 - As Segment expanded its sales strategy and launched an SMB tier to support up and coming startups like Webflow, Calendly, and Figma, she became one of the first three SMB reps ever and was the #1 Sales Rep at Segment in Q1 2018
 
@@ -50,7 +50,7 @@ She shines in situations that involve creative problem solving and tight, cross-
 
 "JJ is unquestionably **one of the single most effective Success Managers** that I’ve ever worked with. She’s a **reliable problem-solver** and has been a consistently responsive life-line to myself and my colleagues on multiple occasions. Given her **unique blend of technical and interpersonal skills**, combined with her domain-specific expertise, I would work with JJ again anytime." - *Head of Sales Ops*
 
-"Julie-Jennifer is **truly a rockstar when it comes to helping out new customers**. We had such a great time working with her to get our analytics moved over, and it was a surprisingly painless and thoroughly enjoyable process. Not only does **Julie-Jennifer take the time to understand your needs and business in great detai**l as it pertains to Segment, but **also brings a bunch of experience to help your overall analytics strategy improve and grow**. I know that if it wasn't for Julie-Jennifer, I would not have had such a pleasurable experience becoming a Segment customer, and our integration would have been nowhere near as successful. Cannot recommend her enough!" - *Director of Product*
+"Julie-Jennifer is **truly a rockstar when it comes to helping out new customers**. We had such a great time working with her to get our analytics moved over, and it was a surprisingly painless and thoroughly enjoyable process. Not only does **Julie-Jennifer take the time to understand your needs and business in great detail** as it pertains to Segment, but **also brings a bunch of experience to help your overall analytics strategy improve and grow**. I know that if it wasn't for Julie-Jennifer, I would not have had such a pleasurable experience becoming a Segment customer, and our integration would have been nowhere near as successful. Cannot recommend her enough!" - *Director of Product*
 
 ***
 
