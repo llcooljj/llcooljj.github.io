@@ -6,7 +6,7 @@ title: About JJ
 <br>
 <p align="center"><img src="/assets/IMG_1051.jpeg" width="500"></p>
 
-JJ Nguyen is a growth stage tech startup operator, marked by her versatility across GTM functions, "do right by your customers" mentality, and her high agency, high ownership approach to work.
+JJ Nguyen is a growth stage tech startup operator, marked by her versatility across GTM functions, customer-first mentality, and high agency/high ownership approach to work.
 
 She shines in situations that involve creative problem solving and tight, cross-functional collaboration. She is energized by finding ways to maximize team happiness and productivity, holding her leadership, teammates, and direct reports to the highest standards for integrity and performance. She is fascinated by how tech companies scale sales execution, diversity and inclusion efforts, and company culture.
 
