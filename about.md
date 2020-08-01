@@ -24,7 +24,6 @@ She shines in situations that involve creative problem solving and tight, cross-
 - Currently: Enterprise Account Executive, West Coast Lead at [Radar.io](https://radar.io)
 - Previously:
     - Enterprise Account Executive at [Scale AI](https://scale.ai)
-    - Enterprise Account Executive at [Alloy.ai](https://alloy.ai)
     - SMB Account Executive at [Segment](https://segment.com)
     - Product Marketing Manager at [Segment](https://segment.com)
     - Success Lead at [Segment](https://segment.com)
@@ -44,12 +43,12 @@ She shines in situations that involve creative problem solving and tight, cross-
 
 "JJ's doing an awesome job of successfully navigating and advancing a variety of institutionally, technically, and geographically difficult sales opportunities. JJ brings her best to each and every call and is always ready to strategize and position our collaborative approach." - *Senior Solutions Engineer*
 
-"[JJ's] ability to translate a business problem into a product solution is outstanding!" - *Enterprise Account Executive
+"[JJ's] ability to translate a business problem into a product solution is outstanding!" - *Enterprise Account Executive*
 
 ### What Customers have to say about JJ
 
-"JJ is unquestionably **one of the single most effective Success Managers** that I’ve ever worked with. She’s a **reliable problem-solver** and has been a consistently responsive life-line to myself and my colleagues on multiple occasions. Given her **unique blend of technical and interpersonal skills**, combined with her domain-specific expertise, I would work with JJ again anytime." - Head of Sales Ops
+"JJ is unquestionably **one of the single most effective Success Managers** that I’ve ever worked with. She’s a **reliable problem-solver** and has been a consistently responsive life-line to myself and my colleagues on multiple occasions. Given her **unique blend of technical and interpersonal skills**, combined with her domain-specific expertise, I would work with JJ again anytime." - *Head of Sales Ops*
 
-"Julie-Jennifer is **truly a rockstar when it comes to helping out new customers**. We had such a great time working with her to get our analytics moved over, and it was a surprisingly painless and thoroughly enjoyable process. Not only does **Julie-Jennifer take the time to understand your needs and business in great detai**l as it pertains to Segment, but **also brings a bunch of experience to help your overall analytics strategy improve and grow**. I know that if it wasn't for Julie-Jennifer, I would not have had such a pleasurable experience becoming a Segment customer, and our integration would have been nowhere near as successful. Cannot recommend her enough!" - Director of Product
+"Julie-Jennifer is **truly a rockstar when it comes to helping out new customers**. We had such a great time working with her to get our analytics moved over, and it was a surprisingly painless and thoroughly enjoyable process. Not only does **Julie-Jennifer take the time to understand your needs and business in great detai**l as it pertains to Segment, but **also brings a bunch of experience to help your overall analytics strategy improve and grow**. I know that if it wasn't for Julie-Jennifer, I would not have had such a pleasurable experience becoming a Segment customer, and our integration would have been nowhere near as successful. Cannot recommend her enough!" - *Director of Product*
 ***
 
